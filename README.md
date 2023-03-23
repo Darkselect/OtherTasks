@@ -1,2 +1,2 @@
-# OtherTasks
+# Calculator
 Simple calculator
